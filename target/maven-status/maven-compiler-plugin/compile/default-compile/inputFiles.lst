@@ -1,0 +1,17 @@
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\registration\RegistrationRequest.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\registration\RegistrationController.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\exception\RegistrationExceptionHandler.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\security\UserRegistrationDetailsService.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\user\UserController.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\registration\token\VerificationToken.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\registration\token\VerificationTokenRepository.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\user\UserService.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\security\UserRegistrationDetails.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\user\User.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\event\listener\RegistrationCompleteEventListener.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\exception\UserAlreadyExistsException.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\StudentEmailApplication.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\event\RegistrationCompleteEvent.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\security\UserRegistrationSecurityConfig.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\user\UserRepository.java
+D:\intellij_projects\StudentEmail\src\main\java\com\student\studentemail\user\IUserService.java

@@ -1,0 +1,17 @@
+com\student\studentemail\registration\RegistrationRequest.class
+com\student\studentemail\user\User.class
+com\student\studentemail\exception\RegistrationExceptionHandler.class
+com\student\studentemail\registration\RegistrationController.class
+com\student\studentemail\event\RegistrationCompleteEvent.class
+com\student\studentemail\StudentEmailApplication.class
+com\student\studentemail\security\UserRegistrationDetails.class
+com\student\studentemail\registration\token\VerificationTokenRepository.class
+com\student\studentemail\user\UserRepository.class
+com\student\studentemail\event\listener\RegistrationCompleteEventListener.class
+com\student\studentemail\user\UserController.class
+com\student\studentemail\registration\token\VerificationToken.class
+com\student\studentemail\security\UserRegistrationDetailsService.class
+com\student\studentemail\exception\UserAlreadyExistsException.class
+com\student\studentemail\user\IUserService.class
+com\student\studentemail\user\UserService.class
+com\student\studentemail\security\UserRegistrationSecurityConfig.class
